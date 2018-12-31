@@ -2,8 +2,8 @@ package main
 
 import (
 	"net"
-	"github.com/CapacitorSet/ja3-tracking/crypto/tls"
-	"github.com/CapacitorSet/ja3-tracking/net/http"
+	"github.com/CapacitorSet/ja3-server/crypto/tls"
+	"github.com/CapacitorSet/ja3-server/net/http"
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"

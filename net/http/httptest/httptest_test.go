@@ -5,7 +5,7 @@
 package httptest
 
 import (
-	"github.com/CapacitorSet/ja3-tracking/crypto/tls"
+	"github.com/CapacitorSet/ja3-server/crypto/tls"
 	"io"
 	"io/ioutil"
 	"net/http"

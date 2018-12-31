@@ -9,7 +9,7 @@ package http_test
 import (
 	"bytes"
 	"compress/gzip"
-	"github.com/CapacitorSet/ja3-tracking/crypto/tls"
+	"github.com/CapacitorSet/ja3-server/crypto/tls"
 	"fmt"
 	"io"
 	"io/ioutil"

@@ -9,7 +9,7 @@ package http_test
 import (
 	"bytes"
 	"context"
-	"github.com/CapacitorSet/ja3-tracking/crypto/tls"
+	"github.com/CapacitorSet/ja3-server/crypto/tls"
 	"encoding/base64"
 	"errors"
 	"fmt"

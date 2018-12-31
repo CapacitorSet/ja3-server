@@ -11,7 +11,7 @@ import (
 	"bytes"
 	"compress/gzip"
 	"context"
-	"github.com/CapacitorSet/ja3-tracking/crypto/tls"
+	"github.com/CapacitorSet/ja3-server/crypto/tls"
 	"encoding/json"
 	"errors"
 	"fmt"

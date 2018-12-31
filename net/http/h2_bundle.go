@@ -22,7 +22,7 @@ import (
 	"compress/gzip"
 	"context"
 	"crypto/rand"
-	"github.com/CapacitorSet/ja3-tracking/crypto/tls"
+	"github.com/CapacitorSet/ja3-server/crypto/tls"
 	"encoding/binary"
 	"errors"
 	"fmt"

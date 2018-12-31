@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CapacitorSet/ja3-tracking/crypto/internal/cipherhw"
+	"github.com/CapacitorSet/ja3-server/crypto/internal/cipherhw"
 )
 
 const (

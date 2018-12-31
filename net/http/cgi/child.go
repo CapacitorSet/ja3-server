@@ -9,7 +9,7 @@ package cgi
 
 import (
 	"bufio"
-	"github.com/CapacitorSet/ja3-tracking/crypto/tls"
+	"github.com/CapacitorSet/ja3-server/crypto/tls"
 	"errors"
 	"fmt"
 	"io"

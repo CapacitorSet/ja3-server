@@ -14,7 +14,7 @@ import (
 	"compress/gzip"
 	"container/list"
 	"context"
-	"github.com/CapacitorSet/ja3-tracking/crypto/tls"
+	"github.com/CapacitorSet/ja3-server/crypto/tls"
 	"errors"
 	"fmt"
 	"io"
